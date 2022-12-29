@@ -1,0 +1,4 @@
+Dependencias:
+
+- Hangfire
+- Hangfire.Memory/Hangfire.SqlServer (depende de onde sera utilizado)
